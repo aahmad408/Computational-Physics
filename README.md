@@ -1,5 +1,5 @@
 Collection of python computational physics simulations employing numerical methods to model various physics processes.
 
-These were developed through the completion of a computational physics course using google colab.
+These were developed throughout my undergraduate years as a physics major using Google Colab, Jupyter Notebook, or Visual Studio Code.
 
-The simulations were specifically involving the physics concepts of statistical mechanics, thermodynamics, electromagnetism, and relativity, and classical mechanics.
+The simulations apply a myriad of concepts within statistical mechanics, thermodynamics, classical electromagnetism, classical mechanics, relativity, quantum mechanics, etc.
